@@ -1,4 +1,4 @@
-## Advanced CSS and Intro to JavaScript
+## Advan ced CSS and Intro to JavaScript
 
 ## Objects
 
