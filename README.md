@@ -1,4 +1,4 @@
-## Advan ced CSS and Intro to JavaScript
+## Advanced CSS and Intro to JavaScript
 
 ## Objects
 
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data. 
+You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data.
 
 ## Instructions
 
@@ -44,12 +44,10 @@ Make sure you are invoking your function after defining it in order to view resu
 
 ## Resources
 
-
-
 ## Submission format
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request.**
+- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request.**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master
